@@ -7,7 +7,7 @@ This repository contains a RoboDK simulation project for a Pick and Place operat
 
 ### Project Overview
 ![Project Demo](assests/pick_place_object.gif)
-*Above GIF shows the coding.*
+*Above GIF shows the simulation working*
 
 **Key Features:**  
 - **Robot Configuration:** Setup and positioning of the robot and gripper.  
